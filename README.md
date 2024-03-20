@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hello, I'm a computer science student.<br>And I'm currently taking a course on cloud and security in IT.<br>I don't really know which profession I'm going to go into because there are too many possibilities, but I really want to work in these fields.
+Hello, I'm a computer science student with as options : Cloud/Cybersecurity.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sammuel-l-968843244) 
